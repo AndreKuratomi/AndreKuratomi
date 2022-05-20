@@ -35,7 +35,7 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 | Desenvolvedor front end | Keltoi sites | Novembro 2020 - Janeiro 2021 | 
 | Desenvolvedor front end | Autônomo | Setembro 2020 - Janeiro 2021 | https://github.com/AndreKuratomi/Beautician-website
 | Desenvolvedor front end | Pirapower | Setembro 2020 | https://github.com/AndreKuratomi/pirapower-sketch
-
+<!--
 ## Translations
 
 - [Arabic | العربية](/i18n/README.ar.md)
@@ -76,9 +76,9 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 - [List of translations](/i18n/languages.md) <!--- Keep only this -->
 
 ---
+
+
 <!--
-
-
 **AndreKuratomi/AndreKuratomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

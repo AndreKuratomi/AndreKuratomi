@@ -17,15 +17,27 @@ Ao longo do curso fizemos diversas entregas voltadas para o mercado de trabalho 
 
 Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 
-O processo de “aprender a aprender”;
-Ter resiliência para tal;
-Almejar sempre desenvolver um código limpo e inteligível para todos.
-
-Email:
-andrekuratomi@gmail.com
+- O processo de “aprender a aprender”;
+- Ter resiliência para tal;
+- Almejar sempre desenvolver um código limpo e inteligível para todos.
 
 Celular:
 (+55 11) 9 7395-8470
+
+
+
+
+
+### Experência profissional
+
+| Cargo| Empresa | Período | Links
+| ------ | ------ |------ | ------
+| Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - atualmente  | 
+| Freelancer Web Design | Autônomo | Agosto 2020 - atualmente  | 
+| Peer coach (Monitoria) | Kenzie Academy Brasil | Junho 2021 - Novembro 2021 | 
+| Desenvolvedor front end | Keltoi sites | Novembro 2020 - Janeiro 2021 | 
+| Desenvolvedor front end | Autônomo | Setembro 2020 - Janeiro 2021 | https://github.com/AndreKuratomi/Beautician-website
+| Desenvolvedor front end | Pirapower | Setembro 2020 | https://github.com/AndreKuratomi/pirapower-sketch
 <!--
 
 

@@ -21,7 +21,7 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 - Ter resiliência para tal;
 - Almejar sempre desenvolver um código limpo e inteligível para todos.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreKuratomi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

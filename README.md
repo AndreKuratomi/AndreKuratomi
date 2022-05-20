@@ -21,9 +21,6 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 - Ter resiliência para tal;
 - Almejar sempre desenvolver um código limpo e inteligível para todos.
 
-Celular:
-(+55 11) 9 7395-8470
-
 
 
 

@@ -19,9 +19,9 @@ Meu nome é André Bergamaschi Kuratomi. Sou músico de formação e passei a es
 1. Interdisciplinaridade;
 2. Estudo constante;
 
-Também de chamou a atenção a abrangência da programação como ferramenta de soluções para as mais diversas áreas.
+Também de chamou a atenção a abrangência da programação como <b>ferramenta de soluções para as mais diversas áreas</b>.
 
-A partir daí segui estudando por conta própria, fiz alguns trabalhos freelancer e em 2021 estudei desenvolvimento web fullstack na <b>Kenzie Academy Brasil</b> até abril de 2022.
+A partir daí segui estudando por conta própria, fiz alguns trabalhos freelancer e em 2021 estudei desenvolvimento web fullstack na <strong>Kenzie Academy Brasil</strong> até abril de 2022.
 
 Ao longo do curso fizemos diversas entregas voltadas para o mercado de trabalho (e-commerces, plataformas frontend e APIs de gestão, entre outros). 
 

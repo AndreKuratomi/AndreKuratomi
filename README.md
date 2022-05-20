@@ -4,6 +4,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-kuratomi/)](https://www.linkedin.com/in/andre-kuratomi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrekuratomi@gmail.com)](mailto:andrekuratomi@gmail.com)
 
+- [Descrição](#descrição)
+- [My GitHub stats](#my-github-stats)
+- [Most used languages](#my-languages)
+- [Experência profissional](#experência-profissional)
+- [Referências](#referências)
+
+<br>
+
+# Descrição
+
 Meu nome é André Bergamaschi Kuratomi. Sou músico de formação e passei a estudar programação no começo de 2020 por indicação de amigos e passei a me interessar conforme vi que a programação demanda: 
 
 1. Interdisciplinaridade;
@@ -21,11 +31,19 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 - Ter resiliência para tal;
 - Almejar sempre desenvolver um código limpo e inteligível para todos.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreKuratomi)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
+# My GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreKuratomi&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
-### Experência profissional
+# My languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKuratomi&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+# Experência profissional
 
 | Cargo| Empresa | Período | Links
 | ------ | ------ |------ | ------
@@ -35,6 +53,13 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 | Desenvolvedor front end | Keltoi sites | Novembro 2020 - Janeiro 2021 | 
 | Desenvolvedor front end | Autônomo | Setembro 2020 - Janeiro 2021 | https://github.com/AndreKuratomi/Beautician-website
 | Desenvolvedor front end | Pirapower | Setembro 2020 | https://github.com/AndreKuratomi/pirapower-sketch
+
+<br>
+
+# Referências
+- [Link badges](https://shields.io/)
+- [Github readme stats & Top languages card](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 ## Translations
 

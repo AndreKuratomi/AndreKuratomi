@@ -21,7 +21,7 @@ Meu nome é André Bergamaschi Kuratomi. Sou músico de formação e passei a es
 
 Também de chamou a atenção a abrangência da programação como ferramenta de soluções para as mais diversas áreas.
 
-A partir daí segui estudando por conta própria, fiz alguns trabalhos freelancer e em 2021 estudei desenvolvimento web fullstack na Kenzie Academy Brasil até 2022.
+A partir daí segui estudando por conta própria, fiz alguns trabalhos freelancer e em 2021 estudei desenvolvimento web fullstack na <b>Kenzie Academy Brasil</b> até abril de 2022.
 
 Ao longo do curso fizemos diversas entregas voltadas para o mercado de trabalho (e-commerces, plataformas frontend e APIs de gestão, entre outros). 
 
@@ -57,6 +57,7 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 <br>
 
 # Referências
+- [Kenzie Academy Brasil](https://kenzie.com.br/)
 - [Link badges](https://shields.io/)
 - [Github readme stats & Top languages card](https://github.com/anuraghazra/github-readme-stats)
 

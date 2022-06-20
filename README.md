@@ -43,7 +43,7 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 
 <br>
 
-# Experência profissional
+# Experiência profissional
 
 | Cargo| Empresa | Período | Links
 | ------ | ------ |------ | ------

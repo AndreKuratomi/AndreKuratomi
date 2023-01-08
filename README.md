@@ -47,7 +47,8 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 
 | Cargo| Empresa | Período | Links
 | ------ | ------ |------ | ------
-| Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - atualmente  | 
+| Programador Jr. | Grupo Amaro | 02/01/2023 - Atualmente  | 
+| Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin
 | Freelancer Web Design | Autônomo | Agosto 2020 - atualmente  | 
 | Peer coach (Monitoria) | Kenzie Academy Brasil | Junho 2021 - Novembro 2021 | 
 | Desenvolvedor front end | Keltoi sites | Novembro 2020 - Janeiro 2021 | 

@@ -47,7 +47,7 @@ Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
 
 | Cargo| Empresa | Período | Links
 | ------ | ------ |------ | ------
-| Programador Jr. | Grupo Amaro | 02/01/2023 - Atualmente  | 
+| Programador Jr. | Grupo Amaro | 02/01/2023 - 15/02/2023  | 
 | Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin
 | Programador Freelancer | Autônomo | Agosto 2020 - atualmente  | 
 | Peer coach (Monitoria) | Kenzie Academy Brasil | Junho 2021 - Novembro 2021 | 

@@ -14,22 +14,22 @@
 
 # Descrição
 
-Meu nome é André Bergamaschi Kuratomi. Sou músico de formação e passei a estudar programação no começo de 2020 por indicação de amigos e passei a me interessar conforme vi que a programação demanda: 
+Sou um desenvolvedor fullstack junior, com cerca de 1 ano de experiência profissional em desenvolvimento web. 
 
-1. Interdisciplinaridade;
-2. Estudo constante;
+Trabalhei como freelancer em 2020 como desenvolvedor frontend e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar como desenvolvedor fullstack.
 
-Também de chamou a atenção a abrangência da <b>programação como ferramenta de soluções para as mais diversas áreas</b>.
+Possuo conhecimento em Typescript, Python, Node.js, React, Django, Express.js, PostgreSQL, AWS EC2 e S3, entre outros. Porém, entendo que muito mais importante do que o conhecimento de linguagens, tecnologias e frameworks é o 'aprender a aprender'. 
 
-A partir daí segui estudando por conta própria, fiz alguns trabalhos freelancer e em 2021 estudei desenvolvimento web fullstack na <strong>Kenzie Academy Brasil</strong> até abril de 2022.
+Tenho interesse em aprender sempre novas tecnologias conforme a necessidade do projeto e as melhores práticas de desenvolvimento. Além de aprimorar sempre as linguagens e tecnologias aprendidas.
 
-Ao longo do curso fizemos diversas entregas voltadas para o mercado de trabalho (e-commerces, plataformas frontend e APIs de gestão, entre outros). 
+GitHub:
+https://github.com/AndreKuratomi
 
-Dentre tudo o que aprendi, acredito que os mais importantes na verdade foram:
+Email:
+andrekuratomi@gmail.com
 
-- O processo de “aprender a aprender”;
-- Ter resiliência para tal;
-- Almejar sempre desenvolver um código limpo e inteligível para todos.
+Celular:
+(11) 9 7395-8470
 
 <br>
 

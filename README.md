@@ -14,13 +14,20 @@
 
 # Descrição
 
-Sou um desenvolvedor fullstack junior, com cerca de 1 ano de experiência profissional em desenvolvimento web. 
+Sou um desenvolvedor junior, com cerca de 1 ano de experiência profissional em desenvolvimento web. 
 
-Trabalhei como freelancer em 2020 como desenvolvedor frontend e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar como desenvolvedor fullstack.
+Trabalhei como freelancer em 2020 como desenvolvedor frontend e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar também com a stack de backend.
 
-Possuo conhecimento em Typescript, Python, Node.js, React, Django, Express.js, PostgreSQL, AWS EC2 e S3, entre outros. Porém, entendo que muito mais importante do que o conhecimento de linguagens, tecnologias e frameworks é o 'aprender a aprender'. 
+Eu entendo que 'resolver problemas'  vem antes de escolher as ferramentas e codar nelas. É por isso que eu não posso dizer que tenho uma 'linguagem favorita', mas procuro saber a que funciona melhor para resolver o problema. Se não a conheço eu corro atrás para aprendê-la.
 
-Tenho interesse em aprender sempre novas tecnologias conforme a necessidade do projeto e as melhores práticas de desenvolvimento. Além de aprimorar sempre as linguagens e tecnologias aprendidas.
+GitHub:
+https://github.com/AndreKuratomi
+
+Email:
+andrekuratomi@gmail.com
+
+Celular:
+(11) 9 7395-8470
 
 GitHub:
 https://github.com/AndreKuratomi

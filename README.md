@@ -54,6 +54,7 @@ Celular:
 
 | Cargo| Empresa | Período | Links
 | ------ | ------ |------ | ------
+| Analista de sistemas | OZmap | 02/06/2023 - 29/08/2023  | 
 | Programador Jr. | Grupo Amaro | 02/01/2023 - 15/02/2023  | 
 | Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin
 | Programador Freelancer | Autônomo | Agosto 2020 - atualmente  | 

@@ -18,7 +18,7 @@ Sou um desenvolvedor junior, com cerca de 1 ano de experiência profissional em 
 
 Trabalhei como freelancer em 2020 como desenvolvedor frontend e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar também com a stack de backend.
 
-Eu entendo que 'resolver problemas'  vem antes de escolher as ferramentas e codar nelas. É por isso que eu não posso dizer que tenho uma 'linguagem favorita', mas procuro saber a que funciona melhor para resolver o problema. Se não a conheço eu corro atrás para aprendê-la.
+Eu entendo que 'resolver problemas' vem antes de escolher as ferramentas e codar nelas. É por isso que eu não posso dizer que tenho uma ferramenta (linguagem, framework, etc) 'favorita', mas procuro saber a que funciona melhor para resolver o problema. Se não a conheço eu corro atrás para aprendê-la.
 
 GitHub:
 https://github.com/AndreKuratomi

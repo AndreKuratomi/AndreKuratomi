@@ -27,7 +27,7 @@ Email:
 andrekuratomi@gmail.com
 
 Celular:
-(11) 9 7395-8470
++55 (11) 9 7395-8470
 
 
 <br>

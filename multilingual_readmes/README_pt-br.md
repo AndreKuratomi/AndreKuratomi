@@ -16,7 +16,7 @@
 
 - [Português brasileiro](./README_pt-br.md)
 - [English / Inglês](https://github.com/AndreKuratomi/AndreKuratomi)
-- [Français / Francês](./multilingual_readmes/README_fr.md)
+- [Français / Francês](./README_fr.md)
 
 <br>
   

@@ -12,6 +12,11 @@
 
 <br>
 
+## Traduções
+
+- [Inglês / English](/.multilingual_readmes/README_en-uk.md)
+- [Português brasileiro / Brazilian portuguese](https://github.com/AndreKuratomi/AndreKuratomi)
+  
 # Descrição
 
 Sou um desenvolvedor junior, com cerca de 1 ano de experiência profissional em desenvolvimento web. 

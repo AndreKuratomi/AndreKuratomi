@@ -7,7 +7,7 @@
 - [Descrição](#descrição)
 - [My GitHub stats](#my-github-stats)
 - [Most used languages](#my-languages)
-- [Experência profissional](#experiencia-profissional)
+- [Experência profissional](#experiência-profissional)
 - [Referências](#referências)
 
 <br>

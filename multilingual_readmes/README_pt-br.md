@@ -7,16 +7,18 @@
 - [Descrição](#descrição)
 - [My GitHub stats](#my-github-stats)
 - [Most used languages](#my-languages)
-- [Experência profissional](#experência-profissional)
+- [Experência profissional](#experencia-profissional)
 - [Referências](#referências)
 
 <br>
 
-## Traduções
+# Traduções
 
-- [Português brasileiro / Brazilian portuguese](https://github.com/AndreKuratomi/AndreKuratomi)
-- [Inglês / English](/.multilingual_readmes/README_en-uk.md)
-- [Français / French](/.multilingual_readmes/README_fr.md)
+- [Português brasileiro](/.multilingual_readmes/README_pt-br.md)
+- [English / Inglês](https://github.com/AndreKuratomi/AndreKuratomi)
+- [Français / Francês](/.multilingual_readmes/README_fr.md)
+
+<br>
   
 # Descrição
 

@@ -26,7 +26,7 @@ Je m'appelle André Kuratomi. Je suis un développeur web junior avec prèsque 2
 
 J'ai travailler comme développeur indépendant en 2020 comme développeur front-end et après étudier fullstack développement web dans la Kenzie Academy Brasil de 2021 à 2022 en avril 2022 j'ai commencé à travailler comme développeur web.
 
-Pour moi, 'résourdre des problèmes' passe avant de choisir les outils pour cela et coder avec eux. C'est pour ça que je ne peut dir que j'ai une outil (langage de programmation, ces bibliothèques et frameworks) de mon préférence, mais je cherce celui qui fonctionne le mieux pour résourdre le problème. Si je ne le connais donc je l'étudie pour travailler avec il.
+Pour moi, 'résourdre des problèmes' passe avant de choisir les outils pour cela et coder avec eux. C'est pour ça que je ne peut dir que j'ai une outil (langage de programmation, ces bibliothèques et frameworks) de mon préférence, mais je cherce celui qui fonctionne le mieux pour résourdre le problème. Si je ne le connais donc je l'étude pour travailler avec il.
 
 Je ne suis pas seulement un rédacteur de code, mais un résolveur de problèmes.
 

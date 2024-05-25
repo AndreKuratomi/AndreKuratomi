@@ -14,16 +14,19 @@
 
 ## Traduções
 
-- [Inglês / English](/.multilingual_readmes/README_en-uk.md)
 - [Português brasileiro / Brazilian portuguese](https://github.com/AndreKuratomi/AndreKuratomi)
+- [Inglês / English](/.multilingual_readmes/README_en-uk.md)
+- [Français / French](/.multilingual_readmes/README_fr.md)
   
 # Descrição
 
-Sou um desenvolvedor junior, com cerca de 1 ano de experiência profissional em desenvolvimento web. 
+Sou um desenvolvedor junior, com cerca de 2 anos de experiência profissional em desenvolvimento web. 
 
-Trabalhei como freelancer em 2020 como desenvolvedor frontend e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar também com a stack de backend.
+Trabalhei como freelancer em 2020 como desenvolvedor front-end e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar também com a stack de backend.
 
-Eu entendo que 'resolver problemas' vem antes de escolher as ferramentas e codar nelas. É por isso que eu não posso dizer que tenho uma ferramenta (linguagem, framework, etc) 'favorita', mas procuro saber a que funciona melhor para resolver o problema. Se não a conheço eu corro atrás para aprendê-la.
+Eu entendo que 'resolver problemas' vem antes de escolher as ferramentas e escrever código nelas. É por isso que eu não posso dizer que tenho uma ferramenta (linguagem, framework, etc) 'favorita', mas procuro saber a que funciona melhor para resolver o problema. Se não a conheço eu corro atrás para aprendê-la.
+
+Não sou um digitador de código, mas um resolvedor de problemas.
 
 GitHub:
 https://github.com/AndreKuratomi
@@ -57,9 +60,9 @@ Celular:
 | Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin
 | Programador Freelancer | Autônomo | Agosto 2020 - atualmente  | 
 | Peer coach (Monitoria) | Kenzie Academy Brasil | Junho 2021 - Novembro 2021 | 
-| Desenvolvedor front end | Keltoi sites | Novembro 2020 - Janeiro 2021 | 
-| Desenvolvedor front end | Autônomo | Setembro 2020 - Janeiro 2021 | https://github.com/AndreKuratomi/Beautician-website
-| Desenvolvedor front end | Pirapower | Setembro 2020 | https://github.com/AndreKuratomi/pirapower-sketch
+| Desenvolvedor front-end | Keltoi sites | Novembro 2020 - Janeiro 2021 | 
+| Desenvolvedor front-end | Autônomo | Setembro 2020 - Janeiro 2021 | https://github.com/AndreKuratomi/Beautician-website
+| Desenvolvedor front-end | Pirapower | Setembro 2020 | https://github.com/AndreKuratomi/pirapower-sketch
 
 <br>
 

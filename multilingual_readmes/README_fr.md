@@ -14,7 +14,7 @@
 
 # Traductions
 
-- [Français](./multilingual_readmes/README_fr.md)
+- [Français](./README_fr.md)
 - [English / Anglais](https://github.com/AndreKuratomi/AndreKuratomi)
 - [Português brasileiro / Portugais brésilien](./multilingual_readmes/README_pt-br.md)
 

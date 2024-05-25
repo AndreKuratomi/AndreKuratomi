@@ -59,13 +59,13 @@ Celular:
 | ------ | ------ |------ | ------
 | Junior backend developer| J & C Gestão de riscos | 24/10/2023 - current  | https://github.com/AndreKuratomi/notas_fiscais_financeiro
 | Systems developer | OZmap | 02/06/2023 - 29/08/2023  | https://github.com/AndreKuratomi/tables_to_db
-| Programador Jr. | Grupo Amaro | 02/01/2023 - 15/02/2023  | 
+| Junior programmer | Grupo Amaro | 02/01/2023 - 15/02/2023  | 
 | Junior analist developer | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin
-| Programador Freelancer | Autônomo | Agosto 2020 - current  | 
-| Peer coach (Monitory) | Kenzie Academy Brasil | Junho 2021 - Novembro 2021 | 
-| Front-end developer | Keltoi sites | Novembro 2020 - Janeiro 2021 | 
-| Front-end developer | Autônomo | Setembro 2020 - Janeiro 2021 | https://github.com/AndreKuratomi/Beautician-website
-| Front-end developer | Pirapower | Setembro 2020 | https://github.com/AndreKuratomi/pirapower-sketch
+| Freelancer developer | Autonomous | Aguste 2020 - current  | 
+| Peer coach (Monitory) | Kenzie Academy Brasil | June 2021 - November 2021 | 
+| Front-end developer | Keltoi sites | November 2020 - January 2021 | 
+| Front-end developer | Autonomous | September 2020 - January 2021 | https://github.com/AndreKuratomi/Beautician-website
+| Front-end developer | Pirapower | September 2020 | https://github.com/AndreKuratomi/pirapower-sketch
 
 <br>
 

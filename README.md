@@ -57,7 +57,7 @@ Celular:
 
 | Job position | Company | Period | Links
 | ------ | ------ |------ | ------
-| Junior backend developer| J & C Gestão de riscos | 24/10/2023 - current  | https://github.com/AndreKuratomi/notas_fiscais_financeiro
+| Junior backend developer| J & C Gestão de riscos | 24/10/2023 - current  | https://github.com/AndreKuratomi/finances_tables_to_db_and_mail
 | Systems developer | OZmap | 02/06/2023 - 29/08/2023  | https://github.com/AndreKuratomi/tables_to_db
 | Junior programmer | Grupo Amaro | 02/01/2023 - 15/02/2023  | 
 | Junior analist developer | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin

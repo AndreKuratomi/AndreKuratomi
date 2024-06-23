@@ -1,4 +1,4 @@
-### Hello, world! 👋
+ ### Hello, world! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AndreKuratomi)](https://github.com/AndreKuratomi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-kuratomi/)](https://www.linkedin.com/in/andre-kuratomi/)
@@ -56,7 +56,7 @@ Celular:
 
 | Cargo| Empresa | Período | Links
 | ------ | ------ |------ | ------
-| Desenvolvedor junior | J & C Gestão de riscos | 24/10/2023 - o momento  | https://github.com/AndreKuratomi/notas_fiscais_financeiro
+| Desenvolvedor junior | J & C Gestão de riscos | 24/10/2023 - 22/06/2024   | https://github.com/AndreKuratomi/notas_fiscais_financeiro
 | Analista de sistemas | OZmap | 02/06/2023 - 29/08/2023  | https://github.com/AndreKuratomi/tables_to_db
 | Programador Jr. | Grupo Amaro | 02/01/2023 - 15/02/2023  | 
 | Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin

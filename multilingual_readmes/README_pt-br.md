@@ -58,7 +58,6 @@ Celular:
 | ------ | ------ |------ | ------
 | Desenvolvedor junior | J & C Gestão de riscos | 24/10/2023 - 22/06/2024   | Aplicação backend que automatiza envio mensal de notas fiscas e boletos por email para clientes: [clique_aqui](https://github.com/AndreKuratomi/finances_mail_invoices_and_bills)
 | Analista de sistemas | OZmap | 02/06/2023 - 29/08/2023  | Módulo python que automatiza inserção de tabelas csv num banco de dados MySQL: [clique_aqui](https://github.com/AndreKuratomi/tables_to_db)
-<!--| Programador Jr. | Grupo Amaro | 02/01/2023 - 15/02/2023  | -->
 | Analista de desenvolvimento Jr. | Vestcasa | 18/04/2022 - 05/10/2022  | Aplicação fullstack para login de fornecedores às suas dashboards em PowerBI e tamém do CEO da empresa como supersuser a todas a dashboards da empresa: [clique_aqui](https://github.com/AndreKuratomi/PrototipoLogin)
 | Programador Freelancer | Autônomo | Agosto 2020 - atualmente  | 
 | Peer coach (Monitoria) | Kenzie Academy Brasil | Junho 2021 - Novembro 2021 | 

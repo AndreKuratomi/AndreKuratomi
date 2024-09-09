@@ -59,7 +59,6 @@ Celular:
 | ------ | ------ |------ | ------
 | Junior backend developer| J & C Gestão de riscos | 24/10/2023 - 22/06/2024  | A backend application that automatizes monthy email sent of invoices and bills to clients: [click_here](https://github.com/AndreKuratomi/finances_mail_invoices_and_bills)
 | Systems developer | OZmap | 02/06/2023 - 29/08/2023  | A python module that automatizes csv tables insertion to a MySQL database: [click_here](https://github.com/AndreKuratomi/tables_to_db)
-| Junior programmer | Grupo Amaro | 02/01/2023 - 15/02/2023  | 
 | Junior analist developer | Vestcasa | 18/04/2022 - 05/10/2022  | Fullstack application that logs suppliers to its dashboards in PowerBI and also the CEO's company as superuser to all dashboards: [click_here](https://github.com/AndreKuratomi/PrototipoLogin)
 | Freelancer developer | Autonomous | August 2020 - current  | 
 | Peer coach (Monitory) | Kenzie Academy Brasil | June 2021 - November 2021 | 

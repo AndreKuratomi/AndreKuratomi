@@ -22,11 +22,11 @@
 
 # Description
 
-My name is André Kuratomi. I am a junior developer with ca 2 years of professional experience in web development. 
+I am a junior developer with ca 2 years of professional experience in web development.
 
 I began working as a freelance frontend developer in 2020 and studied fullstack web development at the Kenzie Academy Brasil from 2021 to 2022. And since April 2022 I work as web developer.
 
-I think that 'solving a problem' commes before chosing the tools for it. That's why I don't say that I have a "favorite language/lib/tool" but I first analise the problem and choose the best one for it. If I don't know it I rush to learn it.
+I developed fullstack and backend applications for a company’s suppliers and for a finance department, for instance. I also have experience with processes automatisation.
 
 I am not just a code writer, but actually a problem solver.
 

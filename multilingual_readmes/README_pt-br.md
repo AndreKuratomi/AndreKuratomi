@@ -22,13 +22,15 @@
   
 # Descrição
 
-Sou um desenvolvedor junior, com cerca de 2 anos de experiência profissional em desenvolvimento web. 
+Sou um desenvolvedor junior, com cerca de 2 anos de experiência profissional em desenvolvimento web. Tenho experiência com automatizações e integrações.
 
-Trabalhei como freelancer em 2020 como desenvolvedor front-end e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar também com a stack de backend.
+Desenvolvi aplicações fullstack e backend para fornecedores de empresa e para o setor financeiro. 
 
-Eu entendo que 'resolver problemas' vem antes de escolher as ferramentas e escrever código nelas. É por isso que eu não posso dizer que tenho uma ferramenta (linguagem, framework, etc) 'favorita', mas procuro saber a que funciona melhor para resolver o problema. Se não a conheço eu corro atrás para aprendê-la.
+Trabalhei como freelancer em 2020 como desenvolvedor frontend e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar também com a stack de backend.
 
-Não sou um digitador de código, mas um resolvedor de problemas.
+Trabalho tanto solo como em equipe, conforme avaliações no meu linkedin.
+
+Não sou um digitador de código, mas resolvo problemas.
 
 GitHub:
 https://github.com/AndreKuratomi

@@ -28,7 +28,7 @@ Desenvolvi aplicações fullstack e backend para fornecedores de empresa e para 
 
 Trabalhei como freelancer em 2020 como desenvolvedor frontend e depois de formado na Kenzie Academy Brasil em abril de 2022 passei a trabalhar também com a stack de backend.
 
-Trabalho tanto solo como em equipe, conforme avaliações no meu linkedin.
+Trabalho tanto solo como em equipe, conforme avaliações no meu [linkedin](https://www.linkedin.com/in/andre-kuratomi/details/recommendations/?detailScreenTabIndex=0&locale=pt_BR).
 
 Não sou um digitador de código, mas resolvo problemas.
 

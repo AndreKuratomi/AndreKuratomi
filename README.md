@@ -37,8 +37,8 @@ https://github.com/AndreKuratomi
 Email:
 andrekuratomi@gmail.com
 
-Celular:
-+55 (11) 9 7395-8470
+Mobile:
++5511973958470
 
 
 <br>

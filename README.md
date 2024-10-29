@@ -23,14 +23,12 @@
 # Description
 
 I am a back-end developer focused on Python.
-I have nearly 2 years of professional experience in web development working with process automations and integration using Python libs, Django, API REST, PostgreSQL, MySQL and SQLite3 databases and Linux.
 
-I developed full-stack and back-end applications for retail goods company suppliers, georeferencing mapping and finance department, improving process efficiency and performance.
+I have nearly 2 years of professional experience in web development working with process' automations and integration using Python libs, Docker, API REST, PostgreSQL, MySQL and SQLite3 databases and Linux.
 
 I'm passionate about how technology can improve our lives and make tasks more efficient, reducing both time and cost.
 
 I consider myself a problem solver first, and a code writer second, always learning and improving.
-
 
 
 GitHub:

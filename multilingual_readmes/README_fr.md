@@ -56,9 +56,9 @@ Celular:
 
 | Position | Entreprise | Période | Links
 | ------ | ------ |------ | ------
-| Développeur junior | J & C Gestão de riscos | 24/10/2023 - 22/10/2024   | https://github.com/AndreKuratomi/notas_fiscais_financeiro
+| Développeur back-end | J & C Gestão de riscos | 24/10/2023 - 22/10/2024   | https://github.com/AndreKuratomi/notas_fiscais_financeiro
 | Analyste système | OZmap | 02/06/2023 - 29/08/2023  | https://github.com/AndreKuratomi/tables_to_db
-| Analyste développeur junior | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin
+| Analyste développeur | Vestcasa | 18/04/2022 - 05/10/2022  | https://github.com/AndreKuratomi/PrototipoLogin
 | Développeur indépendant | Indépendant | Août 2020 - actuellement  | 
 | Peer coach (Moniteurs étudients) | Kenzie Academy Brasil | Juin 2021 - Novembre 2021 | 
 | Développeur front-end | Keltoi sites | Novembre 2020 - Janvier 2021 | 

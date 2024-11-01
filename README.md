@@ -22,14 +22,11 @@
 
 # Description
 
-I am a back-end developer focused on Python.
+Back-end developer focused on Python, working with web development since 2020 and with process automations and integration using Python libs, Docker, API REST, PostgreSQL, MySQL and SQLite3 databases and Linux OS.
 
-I have nearly 2 years of professional experience in web development working with process' automations and integration using Python libs, Docker, API REST, PostgreSQL, MySQL and SQLite3 databases and Linux.
+Passionate about how technology can improve our lives and make tasks more efficient, reducing both time and cost.
 
-I'm passionate about how technology can improve our lives and make tasks more efficient, reducing both time and cost.
-
-I consider myself a problem solver first, and a code writer second, always learning and improving.
-
+A problem solver first, and a code writer second, always learning and improving.
 
 GitHub:
 https://github.com/AndreKuratomi

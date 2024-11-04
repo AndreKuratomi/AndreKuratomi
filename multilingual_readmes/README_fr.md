@@ -16,7 +16,7 @@
 
 - [🇨🇵 Français](./README_fr.md)
 - [🇬🇧 / 🇺🇸 English / Anglais](https://github.com/AndreKuratomi/AndreKuratomi)
-- [🇧🇷 Português brasileiro / Portugais brésilien](./README_pt-br.md)
+- [🇧🇷 / 🇵🇹 Português / Portugais](./README_pt-br.md)
 
 <br>
 

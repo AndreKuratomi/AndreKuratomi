@@ -53,7 +53,7 @@ Mobile:
 # Professional experience
 
 | Job position | Company | Period
-| ------ | ------ |------ | ------
+| ------ | ------ |------
 | Back-end developer| J & C Gestão de riscos | 24/10/2023 - 22/06/2024
 | Systems developer | OZmap | 02/06/2023 - 29/08/2023
 | Analist developer | Vestcasa | 18/04/2022 - 05/10/2022
